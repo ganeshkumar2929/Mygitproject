@@ -31,7 +31,7 @@ public class Exercise7 {
 		instOfStudent2.addScoreCard(instOfScoreCard2);
 		instOfStudent.printGrade();
 		instOfStudent2.printGrade();
-		instOfStudent2.printGrade();   //newchange
+		
 		
 		
 	
